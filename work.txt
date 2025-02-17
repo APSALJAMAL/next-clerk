@@ -1,0 +1,17 @@
+npx create-next-app@latest
+
+npm i prisma --save-dev 
+npm i @prisma/client
+npx prisma init --datasource-provider postgresql 
+npx prisma db push
+npx prisma migrate dev --name .......
+
+
+npx shadcn@latest init
+npx shadcn@latest add button
+
+npm install next-themes
+
+npm install @clerk/nextjs
+
+
