@@ -15,3 +15,10 @@ npm install next-themes
 npm install @clerk/nextjs
 
 
+.env
+
+DATABASE_URL=neondb
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
+CLERK_SECRET_KEY=
